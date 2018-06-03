@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UberHack", "UberHack.csproj", "{D74DFE4A-60B5-66D4-C06D-E07C29FFFC0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UberHack.Editor", "UberHack.Editor.csproj", "{3529F5BB-FF61-F7AF-C6F8-74833495A627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D74DFE4A-60B5-66D4-C06D-E07C29FFFC0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D74DFE4A-60B5-66D4-C06D-E07C29FFFC0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D74DFE4A-60B5-66D4-C06D-E07C29FFFC0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D74DFE4A-60B5-66D4-C06D-E07C29FFFC0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3529F5BB-FF61-F7AF-C6F8-74833495A627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3529F5BB-FF61-F7AF-C6F8-74833495A627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3529F5BB-FF61-F7AF-C6F8-74833495A627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3529F5BB-FF61-F7AF-C6F8-74833495A627}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
